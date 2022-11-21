@@ -1,0 +1,39 @@
+.holicard1{
+    background-image: url("https://img.freepik.com/free-vector/happy-holi-greetings-dark-blue-yellow-colourful-indian-hinduism-festival-social-media-background_1340-18156.jpg?w=740&t=st=1669020846~exp=1669021446~hmac=614eed7688b4b7d71fab9b95af79770850a659495c66ebf8e08a145061be57ee");
+    background-size: cover;
+    height: 30vh;
+   
+}
+.headfirst{color:white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 120px;
+    text-align: center;
+}
+.holibottom{
+    background-color:chartreuse;
+    height: 80vh;
+    
+}
+.headsec{font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;}
+.holipara{font-size: small;
+    font-weight: bold;
+}
+.holicard{
+    background-color:crimson;
+    width: 170px;
+    border-radius: 15px;
+    padding: 5px;
+   height: 170px; 
+   margin: 20px;
+   text-align: center;
+   margin-top: 20px;}
+
+.imagepics{height: 80px;
+width: 80px;
+background-color: aqua;
+margin: 20px;
+}
